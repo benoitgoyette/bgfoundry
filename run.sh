@@ -1,0 +1,1 @@
+docker run -p30000:30000 --name=bgfoundry bgfoundry:latest 
